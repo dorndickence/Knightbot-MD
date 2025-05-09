@@ -1,0 +1,39 @@
+# PesaPal Configuration
+PESAPAL_CONSUMER_KEY=bmIOiy9No3VzA3pSftndgG4gKPHVPjMc
+PESAPAL_CONSUMER_SECRET=fv12VL148CSk+TqvmzDPx0VkOig=
+PESAPAL_ENVIRONMENT=production
+PESAPAL_CALLBACK_URL=https://knightbot-md-h4cm.onrender.com/pesapal/callback
+PESAPAL_IPN_URL=https://knightbot-md-h4cm.onrender.com/pesapal/ipn
+PESAPAL_NOTIFICATION_ID=b53227ed-c1c2-4145-8ea8-b4ddb7d0536b
+
+
+# Cloudflare D1 Database
+CLOUDFLARE_ACCOUNT_ID=eb9973832773492465a8c88919a301dd
+CLOUDFLARE_API_TOKEN=ppa4qXX_Xwpiv6GahO1Og7sZE5WkMV4KCutNMz14
+CLOUDFLARE_DB_NAME=whatsapp_payments_db
+
+# Server Configuration
+PORT=3000
+JWT_SECRET=71b86b89089cbf17c84abe01c3c78a4c61eb3a813f88024d033059b821ec0e8d39d86249fbf27697c025d0afe13ab355030a4e0d60d8e6e2b96b08c11e1d4974
+# Required
+BASE_URL=https://knightbot-md-h4cm.onrender.com
+BOT_REDIRECT_URL=https://chat.whatsapp.com/HQAmUZ8psAR4EizieJzDE7
+
+# Optional (for production)
+# WHATSAPP_BOT_URL=https://control.katabump.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
